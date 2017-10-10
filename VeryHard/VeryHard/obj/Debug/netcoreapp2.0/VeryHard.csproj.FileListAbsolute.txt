@@ -1,0 +1,11 @@
+/Users/ianpowell/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.deps.json
+/Users/ianpowell/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.runtimeconfig.json
+/Users/ianpowell/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.runtimeconfig.dev.json
+/Users/ianpowell/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.dll
+/Users/ianpowell/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.pdb
+/Users/ianpowell/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.csprojResolveAssemblyReference.cache
+/Users/ianpowell/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.csproj.CoreCompileInputs.cache
+/Users/ianpowell/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.AssemblyInfoInputs.cache
+/Users/ianpowell/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.AssemblyInfo.cs
+/Users/ianpowell/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.dll
+/Users/ianpowell/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.pdb

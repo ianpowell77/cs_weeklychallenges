@@ -1,0 +1,11 @@
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.deps.json
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.runtimeconfig.json
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.runtimeconfig.dev.json
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.dll
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/bin/Debug/netcoreapp2.0/VeryEasy.pdb
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.csprojResolveAssemblyReference.cache
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.csproj.CoreCompileInputs.cache
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.AssemblyInfoInputs.cache
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.AssemblyInfo.cs
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.dll
+/Users/ianpowell/Projects/VeryEasy/VeryEasy/obj/Debug/netcoreapp2.0/VeryEasy.pdb

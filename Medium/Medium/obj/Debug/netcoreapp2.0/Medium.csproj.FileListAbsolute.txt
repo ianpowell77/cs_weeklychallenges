@@ -1,0 +1,11 @@
+/Users/ianpowell/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.deps.json
+/Users/ianpowell/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.runtimeconfig.json
+/Users/ianpowell/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.runtimeconfig.dev.json
+/Users/ianpowell/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.dll
+/Users/ianpowell/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.pdb
+/Users/ianpowell/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.csprojResolveAssemblyReference.cache
+/Users/ianpowell/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.csproj.CoreCompileInputs.cache
+/Users/ianpowell/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.AssemblyInfoInputs.cache
+/Users/ianpowell/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.AssemblyInfo.cs
+/Users/ianpowell/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.dll
+/Users/ianpowell/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.pdb
